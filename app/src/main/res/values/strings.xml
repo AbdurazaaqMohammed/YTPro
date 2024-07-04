@@ -5,4 +5,7 @@
 	<string	name="no_pip">Unfortunately, PIP is not supported on your Android version</string>
 	<string	name="dl_started">Download started</string>
 	<string	name="dl">Download</string>
+	<string	name="not_yt">Not a YouTube link</string>
+	<string	name="audio">Audio (Best)</string>
+	<string	name="error">Error</string>
 </resources>
